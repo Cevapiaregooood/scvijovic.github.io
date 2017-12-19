@@ -1,0 +1,22 @@
+.navigation {
+	
+}
+body{
+	background: #8af7ff;
+}
+header {
+	background-color: #008080;
+	width: 100%;
+	
+}
+ul {
+	padding: 20px;
+	margin: 30px auto;
+	text-align: center;
+}
+li {
+	color: #000;
+	display: inline-block;
+	position: fixed;
+
+}
